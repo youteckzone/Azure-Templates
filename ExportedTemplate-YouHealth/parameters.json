@@ -1,0 +1,66 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_xmlCfg": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountName": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountKey": {
+            "value": null
+        },
+        "extensions_Microsoft_Insights_VMDiagnosticsSettings_storageAccountEndPoint": {
+            "value": null
+        },
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "servers_yhsqldbserver_name": {
+            "value": null
+        },
+        "virtualNetworks_YH_VNet_name": {
+            "value": null
+        },
+        "privateEndpoints_sqlLink_name": {
+            "value": null
+        },
+        "virtualMachines_YHWCFServer_name": {
+            "value": null
+        },
+        "bastionHosts_YH_VNet_bastion_name": {
+            "value": null
+        },
+        "networkSecurityGroups_wcfnsg_name": {
+            "value": null
+        },
+        "virtualMachines_YHFrontServer_name": {
+            "value": null
+        },
+        "storageAccounts_yhealthstorage_name": {
+            "value": null
+        },
+        "networkInterfaces_yhwcfserver951_name": {
+            "value": null
+        },
+        "networkInterfaces_yhfrontserver64_name": {
+            "value": null
+        },
+        "networkSecurityGroups_frontendnsg_name": {
+            "value": null
+        },
+        "publicIPAddresses_YHFrontServer_ip_name": {
+            "value": null
+        },
+        "publicIPAddresses_YH_VNet_Bastion_ip_name": {
+            "value": null
+        },
+        "privateDnsZones_privatelink_database_windows_net_name": {
+            "value": null
+        },
+        "networkInterfaces_sqlLink_nic_19590472_6622_4ab1_a160_c63c795098c7_name": {
+            "value": null
+        }
+    }
+}
